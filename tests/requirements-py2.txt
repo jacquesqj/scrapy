@@ -1,7 +1,7 @@
 # Tests requirements
 mock
 mitmproxy==0.10.1
-netlib==0.10.1
+netlib==0.17
 pytest
 pytest-cov
 pytest-twisted
